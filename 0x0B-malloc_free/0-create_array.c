@@ -17,7 +17,7 @@ if (size == 0 || c == 0)
 return (0);
 
 while (size--)
-n[size] == c;
+n[size] = c;
 
 return (n);
 
