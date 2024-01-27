@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - the entry point
+ * Return: 0 if exited properly, non-zero otherwise
+ */
+
 int main(void)
 {
 	int n, lastDigit;
