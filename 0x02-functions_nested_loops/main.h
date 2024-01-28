@@ -7,5 +7,6 @@
 /*functions declaration*/
 void _putchar(char c);
 void print_alphabet(void);
+void print_times_table(int n);
 
 #endif /*MAIN_H*/
