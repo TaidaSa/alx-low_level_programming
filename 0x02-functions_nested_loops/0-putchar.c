@@ -1,5 +1,6 @@
+// #include "main.h"
+#include <stdio.h>
 #include "main.h"
-
 /**
  * main - the entry point
  * Return: 0 if exited properly, non-zero otherwise
@@ -17,5 +18,5 @@ int main(void)
     _putchar('r');
     _putchar('\n');
 
-    return(0);
+    return (0);
 }
