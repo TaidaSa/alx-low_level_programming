@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-// functions declaration
+/*functions declaration*/
 void _putchar(char c);
 
-#endif // MAIN_H
+#endif /*MAIN_H*/
